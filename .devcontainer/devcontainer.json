@@ -24,6 +24,7 @@
 		]
 	},
 	"extensions": [
-		"golang.Go"
+		"golang.Go",
+		"ms-vscode-remote.remote-containers"
 	]
 }
